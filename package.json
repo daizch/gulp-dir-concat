@@ -1,0 +1,29 @@
+{
+  "name": "gulp-dir-concat",
+  "version": "0.0.1",
+  "description": "concat directory files",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul test _mocha --report html -- test/*.js --reporter spec"
+  },
+  "keywords": [
+    "gulp",
+    "concat",
+    "directory",
+    "gulp-concat",
+    "gulp-concat-css"
+  ],
+  "author": "zechengdai",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {
+    "gulp-if": "^2.0.1",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.1.2",
+    "should": "^11.1.1",
+    "vinyl-fs": "^2.4.4"
+  }
+}

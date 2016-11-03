@@ -1,0 +1,30 @@
+/** parent.css **/
+.parent {
+    text-align: left;
+}
+/** parent1.css **/
+.parent1 {
+    color: white;
+}
+/** 1.css **/
+.item-1 {
+    color: blue;
+}
+/** 2.css **/
+.item2 {
+    font-size: 40px;
+}
+/** 3.css **/
+.list {
+    font-size: 50px;
+    width: 40px;
+    height: 50px;
+}
+/** css1.css **/
+body {
+    color:red;
+}
+/** css2.css **/
+.item {
+    font-size: 20px;
+}
